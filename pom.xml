@@ -35,11 +35,6 @@
 
     </dependencies>
 
-    <properties>
-        <!-- The main class to start by executing java -jar -->
-        <start-class>com.drisle.middle.Application</start-class>
-    </properties>
-
     <!-- Package as an executable JAR -->
     <build>
         <plugins>
