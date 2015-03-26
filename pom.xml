@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.drisle</groupId>
-    <artifactId>drisle-middletier</artifactId>
+    <artifactId>drisle-middle-tier</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <!-- Inherit defaults from Spring Boot -->
@@ -27,6 +27,11 @@
             <artifactId>jackson-databind</artifactId>
         </dependency>
 
+        <!-- ftl support -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-freemarker</artifactId>
+        </dependency>
     </dependencies>
 
     <!-- Package as an executable JAR -->

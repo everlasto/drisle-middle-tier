@@ -1,0 +1,23 @@
+signup
+    -verify username
+    -verify u,p
+    -sync linkdin
+    -signup call
+
+get-started
+    -questionaire ( updating-profile )
+    -home
+        -team-feeds
+            -follow
+            -apply
+
+profile
+    -..
+    -associated-teams
+
+team
+    -..
+    -follow
+    -apply
+    -option-edit
+
