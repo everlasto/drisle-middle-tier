@@ -15,7 +15,7 @@
             <h2>An open platform for teams</h2>
             <div class="feature-desc">
                 <div class="placeholder-image icon-team"></div>
-                <div class="text">Drisle provides a platform for teams to create a <span class="color-green">SPACE</span> for themselves and also to <span class="color-blue">CONNECT</span> with other teams.</div>
+                <div class="text">drisle provides a platform for teams to create a <span class="color-green">SPACE</span> for themselves and also to <span class="color-blue">CONNECT</span> with other teams.</div>
             </div>
         </div>
         <div class="feature">
@@ -29,7 +29,7 @@
             <h2>Faster and reliable Recruiting</h2>
             <div class="feature-desc">
                 <div class="placeholder-image icon-process"></div>
-                <div class="text">Processing day to day job applications is a time consuming process for teams with limited resources. <br/>Drisle can <span class="color-red">SPEEDUP</span> overall processing time in a reliable way.</div>
+                <div class="text">Processing day to day job applications is a time consuming process for teams with limited resources. <br/>drisle can <span class="color-red">SPEEDUP</span> overall processing time in a reliable way.</div>
             </div>
         </div>
     </div>
