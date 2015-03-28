@@ -18,7 +18,7 @@ public class UIhelpers {
     public static Map<String, String> jsFilesMap = new HashMap<String, String>();
     public static List<String> sharedJsFiles = new ArrayList<String>();;
     public static List<String> sharedCssFiles = new ArrayList<String>();
-    public static final String externalPath = "http://localhost:8080/php-apps/drisle-static/";
+    public static final String externalPath = "http://controller-mess-31125.bitballoon.com/";
 
     static {
         mapper = new ObjectMapper();
