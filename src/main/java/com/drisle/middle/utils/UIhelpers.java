@@ -29,7 +29,7 @@ public class UIhelpers {
         cssFilesMap.put(PageTypes.TEAM_PROFILE, "teamprofile.min.css");
         cssFilesMap.put(PageTypes.USER_PROFILE, "userprofile.min.css");
 
-        sharedJsFiles.add("jquery-2.1.3.min");
+        sharedJsFiles.add("jquery-2.1.3.min.js");
         sharedJsFiles.add("rivets.bundled.min.js");
 
         jsFilesMap.put(PageTypes.HOME, "home-page.js");
