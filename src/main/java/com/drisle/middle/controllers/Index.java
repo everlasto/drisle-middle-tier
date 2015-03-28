@@ -3,6 +3,8 @@ package com.drisle.middle.controllers;
 import com.drisle.middle.constants.PageTypes;
 import com.drisle.middle.services.Session;
 import com.drisle.middle.utils.UIhelpers;
+import freemarker.ext.beans.BeansWrapper;
+import freemarker.template.TemplateHashModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -39,6 +41,7 @@ public class Index {
         model.put("meta", metaData);
 
         model.put("modelJSON", UIhelpers.getJSONString(model));
+        model.put("uiHL", new UIhelpers());
 
         return "index";
     }
