@@ -5,6 +5,7 @@
         <div class="de-col de-col-1-2 color-white">
             <div class="font-big">Drisle.com @2015</div>
             <div class="font-small">Icons made by <a href="http://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div>
+            <div class="font-small">Stock images courtesy <a href="http://www.freeimages.com/">FreeImages.com</a></div>
         </div>
 
         <div class="de-col de-col-1-4">
